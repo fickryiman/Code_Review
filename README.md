@@ -24,7 +24,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse Project] <a name="about-project"></a>
+# 📖 Code Review <a name="about-project"></a>
 
 <!-- >> Describe your project in 1 or 2 sentences. -->
 **First Code Review** this is My First Code Review at Microverse Program
